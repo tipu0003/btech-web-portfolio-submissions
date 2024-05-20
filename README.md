@@ -16,26 +16,26 @@ First, clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/tipu0003/btech-web-portfolio-submissions.git
 
-### 2. Create a New Branch
+2. Create a New Branch
 Create a new branch with your name or a unique identifier. Replace your-name with your actual name or identifier:
 
 ```bash
 git checkout -b your-name
 
-### **3. Add Your Portfolio Files**
+3. Add Your Portfolio Files
 Add your HTML, CSS, JavaScript, and any other necessary files for your portfolio website to the repository.
 
-### **4. Commit Your Change**s
+4. Commit Your Change
 Stage and commit your changes with a meaningful commit message:
 
 ```bash
 git add .
 git commit -m "Add portfolio website by your-name"
 
-### **5. Push Your Branch to GitHub**
+5. Push Your Branch to GitHub
 Push your branch to the remote repository:
 
-### ** Repository Structure**
+Repository Structure
 The repository is structured to accommodate multiple branches, each representing a student's submission. Below is an example of the repository structure:
 .
 ├── student1-branch/
@@ -49,7 +49,7 @@ The repository is structured to accommodate multiple branches, each representing
 └── README.md
 
 
-**Guidelines**
+Guidelines
 Ensure your branch name is unique and identifiable.
 Keep your portfolio website files organized in a structured manner.
 Commit only the necessary files for your website.
