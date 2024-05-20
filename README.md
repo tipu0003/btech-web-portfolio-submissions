@@ -16,7 +16,7 @@ First, clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/tipu0003/btech-web-portfolio-submissions.git
 
-### **2. Create a New Branch**
+### 2. Create a New Branch
 Create a new branch with your name or a unique identifier. Replace your-name with your actual name or identifier:
 
 ```bash
